@@ -1,0 +1,11 @@
+let obj1 = {
+    "name": "Person 1",
+    "age": 5,
+    };
+
+let obj2 = {
+    "name": "Person 1",
+    "age": 5,
+    };
+
+console.log(obj1===obj2);
